@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/04/14 22:57:09.715.pas,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\soff.pas</Transaction>
+    <Transaction>2011/04/14 22:57:09.715.dfm,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.dfm=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\soff.dfm</Transaction>
+    <Transaction>2011/04/14 23:05:54.756.pas,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\leito\Documents\RAD Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>2011/04/14 23:05:54.756.dfm,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\leito\Documents\RAD Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>2011/04/14 23:06:37.587.pas,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\leito\Documents\RAD Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>2011/04/14 23:06:37.587.dfm,C:\Users\leito\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\leito\Documents\RAD Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>2011/04/14 23:06:42.257.pas,C:\Users\leito\Documents\RAD Studio\Projects\DataModule.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\DataModule.pas</Transaction>
+    <Transaction>2011/04/14 23:06:42.257.dfm,C:\Users\leito\Documents\RAD Studio\Projects\DataModule.dfm=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\DataModule.dfm</Transaction>
+    <Transaction>2011/04/14 23:07:34.310.dproj,C:\Users\leito\Documents\RAD Studio\Projects\Project1.dproj=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Project1.dproj</Transaction>
+    <Transaction>2011/04/15 23:44:25.519.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit1.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\OSControl.pas</Transaction>
+    <Transaction>2011/04/16 00:21:22.275.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit1.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\UMsgBox.pas</Transaction>
+    <Transaction>2011/04/16 00:56:45.490.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit2.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\UnitCustom.pas</Transaction>
+    <Transaction>2011/04/16 00:56:45.490.dfm,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit2.dfm=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\UnitCustom.dfm</Transaction>
+    <Transaction>2011/04/16 01:45:39.662.dproj,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Project1.dproj=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\ScreenOff.dproj</Transaction>
+    <Transaction>2011/04/16 02:29:03.850.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit3.pas=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\UnitCounter.pas</Transaction>
+    <Transaction>2011/04/16 02:29:03.850.dfm,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\Unit3.dfm=D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\UnitCounter.dfm</Transaction>
+    <Transaction>2011/04/16 02:29:20.207.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\DataModule.pas=</Transaction>
+    <Transaction>2011/04/16 02:29:20.207.dfm,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\SOFF\DataModule.dfm=</Transaction>
+    <Transaction>2011/04/16 13:06:15.420.pas,D:\Mis Documentos\Proyetos\CountdownTimerSource\UCountDownTimer.pas=</Transaction>
+    <Transaction>2011/05/08 16:01:15.721.pas,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\MIS PROYECTOS\SOFF\UnitCounter.pas=</Transaction>
+    <Transaction>2011/05/08 16:01:15.721.dfm,D:\Mis Documentos\Proyetos\Programaciones\DELPHI\MIS PROYECTOS\SOFF\UnitCounter.dfm=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="soff.pas"/>
+    <File Path="soff.dfm"/>
+    <File Path="UnitCustom.pas"/>
+    <File Path="UnitCustom.dfm"/>
+    <File Path="NTPrivilege.pas"/>
+    <File Path="OSControl.pas"/>
+    <File Path="UMsgBox.pas"/>
+    <File Path="UCountDown.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
